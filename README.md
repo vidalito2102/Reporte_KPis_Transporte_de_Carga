@@ -9,6 +9,12 @@ El archivo contiene más de 4,000 viajes analizados, donde se consideran datos r
 - `notebooks/Reporte_KPis_Transporte_de_Carga.xlsx`
 - 
   → Se realiza la limpieza de acuerdo al origen de las diferentes fuentes de los datos así como el correcto formato para una formulación adecuada de las variables numéricas.
+  Fuentes de datos:
+  - SAP (consmumo de materiales y servicios)
+  - Budini incorporate
+  - Facturas PASE (peaje)
+  - Archivos Excel de captura de datos.
+  - Facturas y cartas porte
 
 
 1. Abre `Reporte_KPis_Transporte_de_Carga.xlsx`
@@ -22,4 +28,10 @@ El archivo contiene más de 4,000 viajes analizados, donde se consideran datos r
 - Visualizar gráficamente la información para la comprensión de los datos
 - Analizar comportamientos y rendimientos
 - Identificar KPis Relevantes para la toma de decisiones.
-- Generar insights directamente con el Alta Dirección para la toma de decisiones importantes en la operación
+
+ ## 🧠 Insights
+
+ - Identificación de rutas con mejores ingresos
+ - Identificación de unidades con menores consumos de rendimiento de combutble
+ - contabilización de los Gastos variables
+ - Obtención de indicadores clave de tarifas (CPK) 
