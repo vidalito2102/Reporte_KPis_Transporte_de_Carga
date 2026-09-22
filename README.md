@@ -36,7 +36,13 @@ Para proteger la identidad de las personas y activos involucrados, la versión p
 - Se eliminan los campos **Carta Porte**, **Número de Contenedor** y **CP Cliente**.
 - Las demás variables analíticas se conservan para mantener la utilidad del caso de estudio.
 
-> El archivo público anonimizado se incorporará en la carpeta `data/`.
+La versión anonimizada utilizada para presentar este caso de estudio está disponible en la carpeta `data/`.
+
+### 📥 Dataset público
+
+[**Descargar dataset anonimizado**](data/Reporte_KPIs_Transporte_Anonimizado.xlsx)
+
+El archivo conserva las variables analíticas necesarias para revisar el proyecto, mientras que los nombres de operadores y números económicos de las unidades fueron sustituidos por identificadores anónimos y se eliminaron los campos definidos como sensibles.
 
 ---
 
@@ -282,7 +288,7 @@ Reporte_KPis_Transporte_de_Carga/
     └── rendimiento_combustible.png
 ```
 
-> El dataset anonimizado será incorporado en `data/` una vez finalizado el proceso de anonimización y validación.
+El dataset disponible en `data/` corresponde a la versión pública anonimizada utilizada para documentar el proyecto.
 
 ---
 
